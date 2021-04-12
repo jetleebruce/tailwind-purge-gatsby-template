@@ -9,6 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <h1>Hi people</h1>
+    <button className="bg-blue-600 px-4 py-4 rounded">Push</button>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <StaticImage
